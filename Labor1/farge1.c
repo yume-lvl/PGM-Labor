@@ -28,7 +28,6 @@ ERWARTETE AUSGABE:Hello World!*/
 
 //CODE:
 #include <stdio.h>
-
 int main()
 {
     printf("Hello World!\n");
