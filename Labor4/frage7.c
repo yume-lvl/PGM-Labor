@@ -9,6 +9,7 @@ ERWARTETE AUSGABE:
 6.00*/
 
 //CODE:
+#include <stdio.h>
 float triangleArea(float g, float h)
 {
     return g * h * 1/2;
